@@ -44,6 +44,6 @@ This is the Face Detection Page .Here First camera will be open and it will take
 
 ![image](https://user-images.githubusercontent.com/65438429/129901561-7aa7fdc8-ca3d-4396-a7fa-59399b7a0ac0.png)
 
- This is Attendence Page.Here attendence of student will be Recorded.And after taking attendence we can copy that attendence to the excel sheet .
+ This is Attendence Page.Here attendence of student will be Recorded.And after taking attendence we can Save that attendence to the excel sheet .
  After Saving attendence Of all Student we can clear that attendence section for futher taking attendence.
 
