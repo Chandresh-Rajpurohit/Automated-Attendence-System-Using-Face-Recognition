@@ -11,6 +11,10 @@ The main purpose of this project is to build a face recognition-based attendance
 
 
 This is the home page of our project .It consist of 4 Sections.
+The first Section is for adding the student details.
+The second Section is for training the data of students.
+The Third Section is for detecting the face of Students.
+The Fourth Section is for adding or updating the attendence of students.
 
 
 
